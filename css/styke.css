@@ -1,0 +1,49 @@
+section{
+    color: rgb(208, 208, 208);
+    border: 4px  dashed #22ff007c;
+    background-color: rgba(197, 195, 195, 0.442);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
+/* body{
+    background-image: url(https://art-of-lol.com/wp-content/uploads/2015/11/Chogath-League-Of-Legends-Wallpapers-HD-1920x1080.jpg);
+}    */
+footer{
+    color: rgb(255, 255, 255);
+}    
+
+header{
+    background-image: url(../images/Leagueofleguends.jpg);
+    background-position: 220px -210px;
+    border-radius: 15px;
+    color: white;
+    padding: 140px;
+    background-repeat: no-repeat;
+}
+.negro{
+    color: #000;
+}
+body{
+    background-image:url(../images/ChoGath.jpg);
+    background-size: cover;
+    background-position: -1000px 0;
+}
+main{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
+img{
+    max-width: 800px;
+    max-height: 900px; 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+div{
+    padding: 20px;
+    margin: 80px;
+    border-radius: 15px;
+}
